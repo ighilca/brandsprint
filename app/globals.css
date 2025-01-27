@@ -1,0 +1,54 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --color-terracotta: #E07A5F;
+  --color-black: #2A2A2A;
+  --color-white: #FFFFFF;
+  --color-off-white: #F9F7F3;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-white text-brand-black font-montserrat;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-permanent-marker;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .nav-height {
+    height: 80px;
+  }
+
+  .btn-primary {
+    @apply bg-terracotta text-white px-6 py-3 rounded-lg transition-all duration-300 hover:bg-opacity-90;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.8s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+} 
+

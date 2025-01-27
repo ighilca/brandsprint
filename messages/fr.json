@@ -1,0 +1,131 @@
+{
+  "hero": {
+    "title": "Créez une identité de marque percutante en 3 heures",
+    "subtitle": "Un atelier intensif pour aligner votre équipe et poser les bases d'une marque forte",
+    "cta": "Réserver votre atelier"
+  },
+  "benefits": {
+    "title": "Pourquoi cet atelier est fait pour vous",
+    "items": [
+      {
+        "title": "Aligner votre équipe",
+        "description": "Clarifiez la vision et assurez-vous que tout le monde travaille dans la même direction."
+      },
+      {
+        "title": "Définir les bases",
+        "description": "Concentrez-vous sur les valeurs, la mission et la personnalité de votre marque."
+      },
+      {
+        "title": "Avancer efficacement",
+        "description": "Obtenez des résultats concrets et applicables en seulement 3 heures."
+      }
+    ]
+  },
+  "target": {
+    "title": "À qui s'adresse l'atelier",
+    "items": [
+      {
+        "title": "Startups en croissance",
+        "description": "Vous développez votre entreprise et avez besoin d'une identité de marque solide pour vous démarquer sur le marché."
+      },
+      {
+        "title": "PME en transformation",
+        "description": "Votre entreprise évolue et vous souhaitez redéfinir votre positionnement pour mieux refléter vos nouvelles ambitions."
+      },
+      {
+        "title": "Équipes marketing",
+        "description": "Vous cherchez à aligner vos équipes autour d'une vision commune et cohérente de votre marque."
+      },
+      {
+        "title": "Entrepreneurs",
+        "description": "Vous lancez un nouveau projet et voulez poser des bases solides pour votre identité de marque."
+      },
+      {
+        "title": "Organisations à impact",
+        "description": "Vous avez une mission sociale ou environnementale et souhaitez mieux communiquer vos valeurs."
+      },
+      {
+        "title": "Équipes produit",
+        "description": "Vous développez de nouvelles offres et voulez assurer leur cohérence avec l'identité de votre marque."
+      }
+    ]
+  },
+  "stats": {
+    "text": "Les marques présentées de manière cohérente ont",
+    "highlight": "3,5 fois plus de chances",
+    "text2": "de bénéficier d'une excellente visibilité."
+  },
+  "process": {
+    "title": "Comment se déroule l'atelier ?",
+    "items": [
+      {
+        "title": "Échauffement créatif",
+        "duration": "30 minutes",
+        "description": "Imaginez l'avenir de votre produit et développez une vision commune."
+      },
+      {
+        "title": "Définition de l'identité",
+        "duration": "1 heure",
+        "description": "Explorez vos valeurs et votre mission avec le cercle d'or de Simon Sinek."
+      },
+      {
+        "title": "Analyse du contexte",
+        "duration": "45 minutes",
+        "description": "Identifiez vos concurrents et clarifiez votre positionnement unique."
+      },
+      {
+        "title": "Création de personnalité",
+        "duration": "45 minutes",
+        "description": "Définissez les attributs qui reflètent au mieux votre identité."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Ce qu'ils en disent",
+    "items": [
+      {
+        "quote": "L'atelier nous a permis de transformer nos idées floues en une vision claire et alignée. En 3 heures, notre équipe a trouvé une direction commune.",
+        "author": "Mathieu L.",
+        "role": "Fondateur d'une startup technologique"
+      },
+      {
+        "quote": "Grâce à cet atelier, nous avons enfin défini une identité qui reflète parfaitement nos valeurs et nos ambitions. Un processus efficace et inspirant.",
+        "author": "Amélie C.",
+        "role": "Directrice Marketing"
+      }
+    ]
+  },
+  "deliverable": {
+    "title": "Ce que vous obtenez",
+    "subtitle": "Un document synthétique et actionnable qui servira de référence pour toutes vos communications futures.",
+    "items": [
+      {
+        "title": "Vision et mission",
+        "description": "Une vision et une mission clairement définies qui donnent une direction claire à votre marque."
+      },
+      {
+        "title": "Valeurs fondamentales",
+        "description": "Les valeurs essentielles qui guideront toutes les décisions et communications de votre marque."
+      },
+      {
+        "title": "Positionnement unique",
+        "description": "Une proposition de valeur distinctive qui vous démarque sur votre marché."
+      },
+      {
+        "title": "Personnalité et ton",
+        "description": "Une voix et une personnalité authentiques qui résonnent avec votre audience."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à clarifier votre vision ?",
+    "subtitle": "Réservez votre atelier dès maintenant et posez les bases d'une marque forte.",
+    "button": "Planifier une session"
+  },
+  "nav": {
+    "benefits": "Bénéfices",
+    "process": "Processus",
+    "testimonials": "Témoignages",
+    "book": "Réserver"
+  }
+} 

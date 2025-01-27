@@ -1,0 +1,131 @@
+{
+  "hero": {
+    "title": "Create a Powerful Brand Identity in 3 Hours",
+    "subtitle": "An intensive workshop to align your team and lay the foundation for a strong brand",
+    "cta": "Book Your Workshop"
+  },
+  "benefits": {
+    "title": "Why This Workshop is Right for You",
+    "items": [
+      {
+        "title": "Align Your Team",
+        "description": "Clarify the vision and ensure everyone is working in the same direction."
+      },
+      {
+        "title": "Define the Foundations",
+        "description": "Focus on your brand's values, mission, and personality."
+      },
+      {
+        "title": "Move Forward Efficiently",
+        "description": "Get concrete and applicable results in just 3 hours."
+      }
+    ]
+  },
+  "target": {
+    "title": "Who is This Workshop For",
+    "items": [
+      {
+        "title": "Growing Startups",
+        "description": "You're growing your business and need a solid brand identity to stand out in the market."
+      },
+      {
+        "title": "Transforming SMEs",
+        "description": "Your company is evolving and you want to redefine your positioning to better reflect your new ambitions."
+      },
+      {
+        "title": "Marketing Teams",
+        "description": "You're looking to align your teams around a common and coherent brand vision."
+      },
+      {
+        "title": "Entrepreneurs",
+        "description": "You're launching a new project and want to lay solid foundations for your brand identity."
+      },
+      {
+        "title": "Impact Organizations",
+        "description": "You have a social or environmental mission and want to better communicate your values."
+      },
+      {
+        "title": "Product Teams",
+        "description": "You're developing new offerings and want to ensure their consistency with your brand identity."
+      }
+    ]
+  },
+  "stats": {
+    "text": "Consistently presented brands are",
+    "highlight": "3.5 times more likely",
+    "text2": "to enjoy excellent brand visibility."
+  },
+  "process": {
+    "title": "How Does the Workshop Work?",
+    "items": [
+      {
+        "title": "Creative Warm-up",
+        "duration": "30 minutes",
+        "description": "Imagine your product's future and develop a shared vision."
+      },
+      {
+        "title": "Identity Definition",
+        "duration": "1 hour",
+        "description": "Explore your values and mission with Simon Sinek's Golden Circle."
+      },
+      {
+        "title": "Context Analysis",
+        "duration": "45 minutes",
+        "description": "Identify your competitors and clarify your unique positioning."
+      },
+      {
+        "title": "Personality Creation",
+        "duration": "45 minutes",
+        "description": "Define the attributes that best reflect your identity."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What They Say",
+    "items": [
+      {
+        "quote": "The workshop helped us transform our fuzzy ideas into a clear and aligned vision. In 3 hours, our team found a common direction.",
+        "author": "Matthew L.",
+        "role": "Tech Startup Founder"
+      },
+      {
+        "quote": "Thanks to this workshop, we finally defined an identity that perfectly reflects our values and ambitions. An efficient and inspiring process.",
+        "author": "Amy C.",
+        "role": "Marketing Director"
+      }
+    ]
+  },
+  "deliverable": {
+    "title": "What You Get",
+    "subtitle": "A synthetic and actionable document that will serve as a reference for all your future communications.",
+    "items": [
+      {
+        "title": "Vision and Mission",
+        "description": "A clearly defined vision and mission that give your brand a clear direction."
+      },
+      {
+        "title": "Core Values",
+        "description": "The essential values that will guide all your brand's decisions and communications."
+      },
+      {
+        "title": "Unique Positioning",
+        "description": "A distinctive value proposition that sets you apart in your market."
+      },
+      {
+        "title": "Personality and Tone",
+        "description": "An authentic voice and personality that resonates with your audience."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Clarify Your Vision?",
+    "subtitle": "Book your workshop now and lay the foundation for a strong brand.",
+    "button": "Schedule a Session"
+  },
+  "nav": {
+    "benefits": "Benefits",
+    "process": "Process",
+    "testimonials": "Testimonials",
+    "book": "Book"
+  }
+} 
